@@ -1,2 +1,5 @@
-# ahdira assistance
-open source implementation of assistance system
+# Ahdira Assistance
+
+python open source implementation of an assistance framework
+
+ahdira.org
