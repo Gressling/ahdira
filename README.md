@@ -1,5 +1,5 @@
-# Ahdira Assistance
+# Gressling-Index
 
-python open source implementation of an assistance framework
+python open source implementation of an data science assistance framework
 
-ahdira.org
+gressling.org
